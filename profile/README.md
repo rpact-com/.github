@@ -1,7 +1,18 @@
-## RPACT
+## RPACT - Where Statistical Innovation Meets Open Source
 
-We help you to implement and establish R/Shiny in your business. With our enterprise software development services, we offer professional services that cover the entire life cycle of an R package, incl. validation, i.e., documented testing and verification of the functionality; creation of a comprehensive validation documentation (compliant to FDA/GxP guidelines).
+At [RPACT](https://www.rpact.com), we simplify the use of R and Shiny for your business. Our validated,
+open-source software solutions empower companies in the pharmaceutical industry
+to make reliable, data-driven decisions.
 
-Furthermore, we offer training, and consultancy in confirmatory adaptive designs using the R software. You, e.g., can book a [rpact](https://cran.r-project.org/package=rpact) package training at a company site; can ask for access to extended manuals, best practice descriptions and additional examples; can order the implementation of frequent workflows and processes with the "rpact" package.
+We offer expert support across the entire software life cycle — from development
+to validation — ensuring full compliance with FDA and GxP guidelines. Our tools
+are not only innovative but also transparent, cost-efficient, and easy to
+integrate into your existing processes.
+
+Discover how our expertise can help you unlock the full potential of open-source
+technology for clinical trials. Let us help you reduce costs, improve
+efficiency, and stay ahead in a rapidly evolving industry.
 
 > Free download and use: rpact is a comprehensive validated, open source, free-of-charge R software package for clinical trial planning, design evaluation, simulation, and analysis: [cran.r-project.org/package=rpact](https://cran.r-project.org/package=rpact)
+
+For more information, visit [rpact.com](https://www.rpact.com)
